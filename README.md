@@ -14,7 +14,7 @@
 
 ## Selected work
 
-### 实时多人卡牌推理游戏
+### [实时多人卡牌推理游戏](https://github.com/Yiyun-Cloud667/realtime-card-inference-game)
 
 Node.js + Express + Socket.IO。支持2-12人实时对局、结构化规则 DSL、服务端权威判定、按观察者脱敏、断线重连与 JSON 持久化。
 
